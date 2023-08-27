@@ -1,0 +1,245 @@
+.bg-light{
+    --bs-bg-opacity: 0;
+}
+
+img {
+    pointer-events: none;
+  }
+
+k{
+    font-weight: bolder;
+    font-size: 1.5em;
+}
+
+.navHead{
+    padding-top: 3vh;
+    padding-bottom: 3vh;
+}
+
+.nav-item1{
+    padding-right: 3vw;
+}
+
+.nav-link{
+    color: rgb(79, 42, 114);
+    font-weight: 500;
+    font-size: 1.2em;
+}
+
+.nav-item{
+    padding-right: 2vw;
+}
+
+.me-2{
+    color: #0d6efd;
+}
+
+.header{
+    padding-top: 20vh;
+}
+
+.header h1{
+    font-size: 3.5em;
+    font-weight: bold;
+}
+
+.col{
+    color: rgb(65, 34, 94);
+}
+
+.col p{
+    padding-top: 2vh;
+    padding-right: 10vw;
+}
+
+.col img{
+    margin-top: -20vh;
+}
+
+.lower{
+    margin-top: -90vh;
+}
+
+.star{
+    margin-bottom: -80vh;
+    margin-top: -60vh;
+    max-width: 12vw;
+}
+
+.reasons{
+    color: rgb(16, 16, 83);
+    margin-top: 10vh;
+}
+
+.reasons h1{
+    font-size: 3em;
+    font-weight: 400;
+}
+
+.reasons p{
+    padding-top: 2vh;
+    margin-right: 65vh;
+    margin-left: 65vh;
+}
+
+.line{
+    padding-top: 10vh;
+    max-width: 60vw;
+    padding-bottom: 5vh;
+}
+
+.reasonCon{
+    margin-top: -30vh;
+    
+    max-width: 80vw;
+    margin-bottom: 15vh;
+}
+
+.reasonlady{
+    max-width: 90vw;
+    margin-bottom: 10vh;
+}
+
+.features{
+    position: relative;
+    color: rgb(16, 16, 83);
+}
+
+.features p{
+    margin-right: 65vh;
+    margin-left: 65vh;
+}
+
+.box{
+    background-color: #FAFCFD;
+    width: 30vw;
+    height: 30vh;
+    border-radius: 15px;
+    margin: 60px;
+    margin-bottom: 0.9vh;
+}
+
+.cloud{
+    width: 33vw;
+    padding-top: 21vh;
+}
+
+.lakeer{
+    margin-left: 20vw;
+    width: 50vw;
+}
+
+.featItem{
+    margin-top: -70vh;
+}
+
+.download{
+    margin-top: 20vh;
+}
+
+.download img{
+    padding-top: 20vh;
+}
+
+.download p{
+    padding-bottom: 5vh;
+}
+
+.downHead{
+    padding-top: 25vh;
+}
+
+.downHead H1{
+    font-size: 3em;
+    font-weight: 650;
+}
+
+.downbtn{
+    width: 11vw;
+    height: 6vh;
+    margin-right: 1vw;
+    font-size: 1.2em;
+}
+
+.downbtn b{
+    padding-left: 0.5vw;
+}
+
+.support{
+    margin-top: 5vh;
+}
+
+.support h1{
+    font-size: 3em;
+    font-weight: 500;
+}
+
+.support img{
+    margin-left: -10vw;
+    padding-top: 10vh;
+    max-width: 50vw;
+}
+
+.supra b{
+    color: rgb(27, 27, 242);
+}
+
+.supra{
+    margin-right:4vw;
+}
+
+.hrline{
+    margin: auto;
+    width: 40%;
+    color: rgb(55, 6, 179);
+    margin-bottom: 5vh;
+    margin-top: 5vh;
+}
+
+.parimg{
+    max-width: 80vw;
+}
+
+.footer{
+    margin-top: 15vh;
+    background-color: rgb(31, 31, 126);
+    height: 60vh;
+}
+
+.color{
+    color: #FAFCFD;
+    font-size: 1.1em;
+    text-align: left;
+}
+
+.color b{
+    font-size: 1.3em;
+    font-weight: 600;
+}
+.footer li{
+    list-style-type: none;
+    padding-bottom: 1vh;
+}
+
+.dis{
+    padding-top: 5vh;
+    margin-left: 12vw;
+    padding-right: 20vw;
+}
+
+.subs{
+    margin-right: -10vw;
+}
+
+.footbtn{
+    margin-top: 3vh;
+    font-size: 0.8em;
+    font-weight: 500;
+    height: 5vh;
+    width: 10vw;
+}
+
+.footimg{
+    margin-top: 5vh;
+    max-width: 70vw;
+}
