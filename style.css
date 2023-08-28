@@ -193,6 +193,11 @@ k{
     padding-top: 20vh;
 }
 
+.newdownHead img{
+max-width: 60vw;
+}
+
+
 .download p{
     padding-bottom: 5vh;
 }
