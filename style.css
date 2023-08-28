@@ -66,7 +66,7 @@ k{
 }
 
 .nopelower{
-    margin-top: -31vh;
+    margin-top: -20vh;
 }
 
 .nopeHeader h1{
@@ -313,6 +313,8 @@ max-width: 60vw;
 }
 
 .footer{
+    width: 100%;
+    margin: 0;
     margin-top: 15vh;
     background-color: rgb(31, 31, 126);
     padding-bottom: 5vh;
@@ -335,7 +337,7 @@ max-width: 60vw;
 
 .dis{
     padding-top: 5vh;
-    margin-left: 12vw;
+    /* margin-left: 12vw; */
     padding-right: 20vw;
 }
 
