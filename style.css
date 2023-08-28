@@ -337,13 +337,10 @@ max-width: 60vw;
 
 .dis{
     padding-top: 5vh;
-    /* margin-left: 12vw; */
-    padding-right: 20vw;
+    margin: auto; 
+   width: 70%;
 }
 
-.subs{
-    margin-right: -10vw;
-}
 
 .footbtn{
     margin-top: 3vh;
